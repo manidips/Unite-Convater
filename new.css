@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 50%;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0px auto 0px auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+.input-div{
+    display: inline-block
+}
+
+#rp{
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+label{
+    font-size: 20px;
+}
